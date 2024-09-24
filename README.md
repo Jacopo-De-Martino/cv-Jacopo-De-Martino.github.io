@@ -18,9 +18,9 @@ Professionista motivato con esperienza in ***team working*** e competenze in ***
 3. [twitter](https://twitter.com/)
 
 
-## Esperienze
+# Esperienze
 
-### Posizione Lavorativa Attule
+## Posizione Lavorativa Attule
 **Cosrso Aulab , casa**  
 [23-09-2024] - [23-02-2025]
 
@@ -31,7 +31,7 @@ Professionista motivato con esperienza in ***team working*** e competenze in ***
 
 ## Posizioni Lavorative Precedenti
 
-### [Magazziniere presso x]  
+## [Magazziniere presso x]  
 
 **x, Roma**  
 
