@@ -37,32 +37,32 @@ Professionista motivato con esperienza in ***team working*** e competenze in ***
 
 [01-01-2021] - [02-09-2024]
 
-# Impiego lavorativo
+# ⚒️Impiego lavorativo
 
 - vendita al dettaglio
 - fatturazione elettronica
 - facchinaggio
 ---
-## Competenze
+## 🔍Competenze
 
-- **Competenze tecniche**: competenze di base in ambito informatico
-- **Competenze personali**: ricercatezza lavorativa per quanto riguarda la risoluzione dei problemi
+- **🛠️ Competenze tecniche**: competenze di base in ambito informatico
+- **🧠 Competenze personali**: ricercatezza lavorativa per quanto riguarda la risoluzione dei problemi
 - [x] lavorare duramente
 - [ ] sviluppare siti web, not yet
     
-- **Lingue**: 
+- **📑 Lingue**: 
 ; *italiano*
 ; *inglese*
 ; *spagnolo*
 ---
-   ## siti
+   ## siti 🗺️
     
 - [I miei proggetti](imieiprogetti.com)
 - [I miei proggetti](imieiprogetti.com)
 - [I miei proggetti](imieiprogetti.com)
 - [I miei proggetti](imieiprogetti.com)
 
-  ## linkUtili
+  ## linkUtili 🔗
 
 1. [I miei proggetti](imieiprogetti.com)
 1. [I miei proggetti](imieiprogetti.com)
