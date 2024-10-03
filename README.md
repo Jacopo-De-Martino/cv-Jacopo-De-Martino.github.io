@@ -6,7 +6,7 @@
 
 
 | 📱Telefono: + 377.321.3035. | 📧jaco.drago.tm@gmail.com 
-### [Diploma tecnico scientifico] | Giovanni XXIII, Roma | [2016] 🧑🏻‍🎓
+## Diploma tecnico scientifico | Giovanni XXIII, Roma | [2016] 🧑🏻‍🎓
 
 Professionista motivato con esperienza in ***team working*** e competenze in ***comunicazione,problem solving***. 👍
 >Capacità di lavorare in team e di gestire progetti complessi. 👥
@@ -31,7 +31,7 @@ Professionista motivato con esperienza in ***team working*** e competenze in ***
 
 ## Posizioni Lavorative Precedenti
 
-## [Magazziniere presso x]  
+# Magazziniere presso x 
 
 **x, Roma**  
 
@@ -43,7 +43,7 @@ Professionista motivato con esperienza in ***team working*** e competenze in ***
 - fatturazione elettronica
 - facchinaggio
 ---
-## 🔍Competenze
+# 🔍Competenze
 
 - **🛠️ Competenze tecniche**: competenze di base in ambito informatico
 - **🧠 Competenze personali**: ricercatezza lavorativa per quanto riguarda la risoluzione dei problemi
