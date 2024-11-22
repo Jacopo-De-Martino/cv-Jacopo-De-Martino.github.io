@@ -66,6 +66,5 @@
 ---
 
 ## 🔗 Social
+- [LinkedIn](https://www.linkedin.com/in/jacopo-de-martino-133912247/)  
 - [Facebook](https://www.facebook.com/?locale=it_IT)  
-- [Instagram](https://www.instagram.com/)  
-- [Twitter](https://twitter.com/)  
