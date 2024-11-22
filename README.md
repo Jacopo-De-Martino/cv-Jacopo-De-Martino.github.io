@@ -1,74 +1,71 @@
 # Jacopo De Martino 👤
 
-
-
 ![fotoProfilo](https://github.com/user-attachments/assets/4d7caec3-feea-4b12-8857-6c75d83e66f0)
 
+---
 
-| 📱Telefono: + 377.321.3035. | 📧jaco.drago.tm@gmail.com 
-## Diploma tecnico scientifico | Giovanni XXIII, Roma | [2016] 🧑🏻‍🎓
-
-Professionista motivato con esperienza in ***team working*** e competenze in ***comunicazione,problem solving***. 👍
->Capacità di lavorare in team e di gestire progetti complessi. 👥
+## 📞 Contatti
+- **Telefono**: +377.321.3035  
+- **Email**: jaco.drago.tm@gmail.com  
 
 ---
-***social***
-1. [facebook](https://www.facebook.com/?locale=it_IT) 
-2. [istagram](https://www.instagram.com/)
-3. [twitter](https://twitter.com/)
 
+## 🧑🏻‍🎓 Formazione
+**Diploma Tecnico Scientifico**  
+*Giovanni XXIII, Roma*  
+[2016]  
 
-# Esperienze
-
-## Posizione Lavorativa Attule
-**Cosrso Aulab , casa**  
-[23-09-2024] - [23-02-2025]
-
-- seguire le lezioni mattitine
-- svolgere esercizi in ambienti di lavoro comuni
-- creare nuovi progetti
---- 
-
-## Posizioni Lavorative Precedenti
-
-# Magazziniere presso x 
-
-**x, Roma**  
-
-[01-01-2021] - [02-09-2024]
-
-# ⚒️Impiego lavorativo
-
-- vendita al dettaglio
-- fatturazione elettronica
-- facchinaggio
 ---
-# 🔍Competenze
 
-- **🛠️ Competenze tecniche**: competenze di base in ambito informatico
-- **🧠 Competenze personali**: ricercatezza lavorativa per quanto riguarda la risoluzione dei problemi
-- [x] lavorare duramente
-- [ ] sviluppare siti web, not yet
-    
-- **📑 Lingue**: 
-; *italiano*
-; *inglese*
-; *spagnolo*
+## 💼 Esperienze Professionali
+
+### **Corsista Aulab**  
+*Specializzazione su React – Remoto*  
+**[23-09-2024] - [23-02-2025]**
+
+- Partecipazione a un percorso intensivo di formazione su React e sviluppo front-end.  
+- Creazione di progetti reali per applicare le competenze apprese.  
+- Collaborazione in ambienti di lavoro comuni per lo sviluppo di codice.  
+
 ---
-   ## siti 🗺️
-    
-- [I miei proggetti](imieiprogetti.com)
-- [I miei proggetti](imieiprogetti.com)
-- [I miei proggetti](imieiprogetti.com)
-- [I miei proggetti](imieiprogetti.com)
 
-  ## linkUtili 🔗
+### **Magazziniere**  
+*X, Roma*  
+**[01-01-2021] - [02-09-2024]**
 
-1. [I miei proggetti](imieiprogetti.com)
-1. [I miei proggetti](imieiprogetti.com)
-1. [I miei proggetti](imieiprogetti.com)
-1. [I miei proggetti](imieiprogetti.com)
+- Gestione della vendita al dettaglio e rapporti con i clienti.  
+- Fatturazione elettronica e gestione dei documenti fiscali.  
+- Facchinaggio e organizzazione del magazzino.  
 
+---
 
+## 🛠️ Competenze
 
+### **Competenze Tecniche**
+- React (in formazione presso Aulab).  
+- Conoscenza base di HTML, CSS e JavaScript.  
+- Familiarità con il team working e utilizzo di strumenti collaborativi.  
 
+### **Competenze Personali**
+- Problem solving.  
+- Capacità di lavorare in team.  
+- Gestione di progetti complessi.  
+
+### **Lingue**
+- Italiano (madrelingua).  
+- Inglese (intermedio).  
+- Spagnolo (base).  
+
+---
+
+## 🌐 Progetti
+- [Portfolio di Progetti](https://imieiprogetti.com)  
+- [Progetto React - ToDo App](https://imieiprogetti.com)  
+- [Progetto Front-End - Sito Web Responsive](https://imieiprogetti.com)  
+
+---
+
+## 🔗 Social
+- [Facebook](https://www.facebook.com/?locale=it_IT)  
+- [Instagram](https://www.instagram.com/)  
+- [Twitter](https://twitter.com/)  
