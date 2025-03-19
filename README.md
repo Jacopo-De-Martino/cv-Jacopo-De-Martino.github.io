@@ -11,92 +11,94 @@ Telefono: +377.321.3035
 
 Email: jacopodemartino1998@gmail.com
 
-🧑🏻‍🎓 Formazione
+🎓 Formazione
 
-Master in Java – Aulab (In corso, 2025)
+🎯 Master in Java – Aulab (In corso, 2025)
 
-Specializzazione in Spring Boot, Hibernate, gestione database, API REST e Maven.
+🚀 Specializzazione in Spring Boot, Hibernate, gestione database, API REST e Maven.
 
-Implementazione del pattern MVC con Controller, Service e Repository.
+🏗️ Implementazione del pattern MVC con Controller, Service e Repository.
 
-Testing e qualità del codice con JUnit.
+🛠️ Testing e qualità del codice con JUnit.
 
-Full Stack Developer Junior – Aulab (2024)
+💻 Full Stack Developer Junior – Aulab (2024)
 
-Sviluppo di applicazioni con Laravel, MySQL, PHP e JavaScript.
+🔧 Sviluppo di applicazioni con Laravel, MySQL, PHP e JavaScript.
 
-Creazione e gestione di API REST e database relazionali.
+🌍 Creazione e gestione di API REST e database relazionali.
 
-Utilizzo di Bootstrap per il front-end e Git/GitHub per il versionamento del codice.
+🎨 Utilizzo di Bootstrap per il front-end e Git/GitHub per il versionamento del codice.
 
-Diploma Tecnico Scientifico – Giovanni XXIII, Roma (2016)
+🎓 Diploma Tecnico Scientifico – Giovanni XXIII, Roma (2016)
 
 💼 Esperienze Professionali
 
-Developer - Progetti Personali & Freelance (2024 - Presente)
+💻 Developer - Progetti Personali & Freelance (2024 - Presente)
 
-Sviluppo di applicazioni Java con Spring Boot e database MySQL/PostgreSQL.
+🏗️ Sviluppo di applicazioni Java con Spring Boot e database MySQL/PostgreSQL.
 
-Creazione di API REST e gestione della sicurezza con Spring Security.
+🔒 Creazione di API REST e gestione della sicurezza con Spring Security.
 
-Esperienza pratica con Git, Docker e testing con JUnit.
+🛠️ Esperienza pratica con Git, Docker e testing con JUnit.
 
-Magazziniere
+🏢 Magazziniere
 
-X, Roma[2021 - 2024]
+📍 X, Roma📅 [2021 - 2024]
 
-Gestione della vendita al dettaglio e rapporti con i clienti.
+🛒 Gestione della vendita al dettaglio e rapporti con i clienti.
 
-Fatturazione elettronica e gestione documenti fiscali.
+📝 Fatturazione elettronica e gestione documenti fiscali.
 
-Organizzazione del magazzino e gestione della logistica.
+📦 Organizzazione del magazzino e gestione della logistica.
 
 🛠️ Competenze
 
-Back-End Development
+🔙 Back-End Development
 
-Java, Spring Boot, Hibernate, API REST
+☕ Java, Spring Boot, Hibernate, API REST
 
-Maven, MySQL, PostgreSQL
+🏗️ Maven, MySQL, PostgreSQL
 
-Testing con JUnit, Mockito
+🧪 Testing con JUnit, Mockito
 
-Front-End Development
+🎨 Front-End Development
 
-JavaScript, HTML, CSS, Bootstrap
+🌐 JavaScript, HTML, CSS, Bootstrap
 
-React (in formazione presso Aulab)
+⚛️ React (in formazione presso Aulab)
 
-Strumenti & Version Control
+🔧 Strumenti & Version Control
 
-Git, GitHub, Docker
+🛠️ Git, GitHub, Docker
 
-IDE: IntelliJ, VS Code
+💡 IDE: IntelliJ, VS Code
 
-Competenze Personali
+🚀 Competenze Personali
 
-Problem solving e pensiero analitico.
+🔍 Problem solving e pensiero analitico.
 
-Capacità di lavorare in team e gestione progetti.
+🤝 Capacità di lavorare in team e gestione progetti.
 
-Lingue
+🌍 Lingue
 
-Italiano (madrelingua).
+🇮🇹 Italiano (madrelingua).
 
-Inglese (intermedio).
+🇬🇧 Inglese (intermedio).
 
-Spagnolo (base).
+🇪🇸 Spagnolo (base).
 
 🌐 Progetti
 
-Presto - Team Project (Laravel)
+🔗 Presto - Team Project (Laravel)
 
-API Spring Boot - Gestione Utenti
+🔗 API Spring Boot - Gestione Utenti
 
-Portfolio di Progetti
+🔗 Portfolio di Progetti
 
 🔗 Social
 
-LinkedIn
+💼 LinkedIn
 
-GitHub
+🐙 GitHub
+
+
