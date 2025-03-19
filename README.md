@@ -1,6 +1,9 @@
 Jacopo De Martino 👤
 
 
+![fotoProfilo](https://github.com/user-attachments/assets/4d7caec3-feea-4b12-8857-6c75d83e66f0)
+
+---
 
 📞 Contatti
 
