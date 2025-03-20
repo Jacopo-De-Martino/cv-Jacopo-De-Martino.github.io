@@ -4,7 +4,7 @@
 **Data di nascita:** 21/07/1998  
 **Telefono:** 377-321-3035  
 **Email:** [jaco.drago.tm@gmail.com](mailto:jaco.drago.tm@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/jacopo-de-martino-133912247/)
+[LinkedIn]([https://www.linkedin.com/in/jacopo-de-martino-133912247/](https://www.linkedin.com/in/jacopodemartinodev/))
 
 ---
 
